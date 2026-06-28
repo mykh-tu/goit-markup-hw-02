@@ -1,0 +1,25 @@
+@font-face{
+    font-family: "Roboto";
+    font-weight: 400-700;
+    src: url("../fonts/Roboto.ttf");
+}
+.body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 400-700;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style-type: none;
+}
+address {
+    font-style: normal;
+} 
+.button {
+    cursor: pointer;
+}

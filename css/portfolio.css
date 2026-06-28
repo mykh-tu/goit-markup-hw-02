@@ -1,0 +1,33 @@
+.portfolio {
+}
+
+.portfolio-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+}
+
+.portfolio-list {
+    
+}
+
+.portfolio-item {
+    
+}
+
+.portfolio-ill {
+    
+}
+
+.portfolio-name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+}
+
+.portfolio-field {
+    font-family: 'Roboto', sans-serif;
+        color: #434455;
+}

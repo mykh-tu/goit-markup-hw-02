@@ -1,0 +1,40 @@
+.features {
+background-color: #fff;
+}
+
+.sr-only {
+    .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            border: 0;
+            padding: 0;
+    
+            white-space: nowrap;
+            clip-path: inset(100%);
+            clip: rect(0 0 0 0);
+            overflow: hidden;
+        }
+}
+
+.freatures-list {
+
+}
+
+.features-item {
+
+}
+
+.features-caption {
+   font-family: Roboto, sans-serif;
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        color: #2e2f42;
+
+}
+
+.features-desc {
+    color: #434455;
+}

@@ -1,15 +1,15 @@
 @font-face{
     font-family: "Roboto";
-    font-weight: 400-700;
+    font-weight: 400;
     src: url("../fonts/Roboto.ttf");
 }
-.body {
+body {
     font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 400-700;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color: #fff;
 }
 a {
     text-decoration: none;
